@@ -1,7 +1,5 @@
-package com.example.demo.api;
+package com.example.demo.crudYoutube.api.person;
 
-import com.example.demo.model.Person;
-import com.example.demo.service.PersonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

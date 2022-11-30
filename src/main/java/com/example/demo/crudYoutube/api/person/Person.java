@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.example.demo.crudYoutube.api.person;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

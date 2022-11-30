@@ -1,6 +1,6 @@
-package com.example.demo.dao;
+package com.example.demo.crudYoutube.api.util;
 
-import com.example.demo.model.Person;
+import com.example.demo.crudYoutube.api.person.Person;
 
 import java.util.List;
 import java.util.Optional;

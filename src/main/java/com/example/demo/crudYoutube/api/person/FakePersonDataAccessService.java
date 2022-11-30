@@ -1,6 +1,6 @@
-package com.example.demo.dao;
+package com.example.demo.crudYoutube.api.person;
 
-import com.example.demo.model.Person;
+import com.example.demo.crudYoutube.api.util.PersonDao;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;
